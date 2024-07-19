@@ -1,0 +1,6 @@
+@KoenCrud_HostAddress = http://localhost:5258
+
+GET {{KoenCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
